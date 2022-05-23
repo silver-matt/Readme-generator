@@ -83,7 +83,7 @@ function generateMarkdown(data) {
 
   # Questions:
   If you have questions, reach out to 
-  GitHub: https://github.com/${data.Username}
+  GitHub: https://github.com/${data.Username}/Readme-generator
   or
   Email: ${data.Email}
 `;
